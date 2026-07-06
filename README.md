@@ -31,7 +31,7 @@
 
 ![About Me](https://img.shields.io/badge/-ABOUT_ME-1a1a2e?style=for-the-badge&logoColor=a78bfa)
 
-I'm a founder and engineer who's happiest when an idea goes from whiteboard to something real users actually touch. Right now that means running **Panabotics**, my own AI agency, while also building agentic systems for a UK-based food manufacturer and steering tech strategy at a startup on the side. I like being in the weeds — writing the code, shipping the product, and watching real people use it.
+I am a founder and engineer who's happiest when an idea goes from whiteboard to something real users actually touch. Right now that means running **Panabotics**, my own AI agency, while also building agentic systems for a UK-based food manufacturer and steering tech strategy at a startup on the side. I like being in the weeds — writing the code, shipping the product, and watching real people use it.
 
 **Currently:**
 - Building & scaling AI products at **Panabotics** — my own agency
