@@ -12,7 +12,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-**I build AI that ships — not AI that stays in a notebook.** 🚀
+**I build AI that ships — not AI that stays in a notebook.**
 
 </div>
 
@@ -29,26 +29,27 @@
 
 ---
 
-## 👋 About Me
+![About Me](https://img.shields.io/badge/-ABOUT_ME-1a1a2e?style=for-the-badge&logoColor=a78bfa)
 
 I'm a founder and engineer who's happiest when an idea goes from whiteboard to something real users actually touch. Right now that means running **Panabotics**, my own AI agency, while also building agentic systems for a UK-based food manufacturer and steering tech strategy at a startup on the side. I like being in the weeds — writing the code, shipping the product, and watching real people use it.
 
-🔭 **Currently:**
+**Currently:**
 - Building & scaling AI products at **Panabotics** — my own agency
 - Shipping agentic AI systems as **Agentic AI Engineer @ MayfairTech**
 - Steering technical strategy as **CTO @ TechConsortiumInc**
 
-🧠 **Deep in:** Agentic AI · RAG pipelines · LLM orchestration · Speech AI · Computer Vision
+**Deep in:** Agentic AI · RAG pipelines · LLM orchestration · Speech AI · Computer Vision
 
-🌱 **Leveling up in:** Multi-agent architectures · Advanced RAG · LLM fine-tuning
+**Leveling up in:** Multi-agent architectures · Advanced RAG · LLM fine-tuning
 
-📍 **Based in:** Lahore, Pakistan
+**Based in:** Lahore, Pakistan
 
-💬 **Motto:** *"AI doesn't replace humans — it amplifies what we can do."*
+**Motto:** *"AI doesn't replace humans — it amplifies what we can do."*
 
 ---
 
-## ⚡ Agentic AI & Advanced AI Systems
+
+![Agentic AI Systems](https://img.shields.io/badge/-AGENTIC_AI_%26_ADVANCED_SYSTEMS-1a1a2e?style=for-the-badge&logo=openai&logoColor=a78bfa)
 
 > *The frontier I'm actively building on.*
 
@@ -65,7 +66,7 @@ I'm a founder and engineer who's happiest when an idea goes from whiteboard to s
 
 ---
 
-## 🛠️ Tech Stack
+![Tech Stack](https://img.shields.io/badge/-TECH_STACK-1a1a2e?style=for-the-badge&logoColor=a78bfa)
 
 **Languages**
 
@@ -102,7 +103,7 @@ I'm a founder and engineer who's happiest when an idea goes from whiteboard to s
 
 ---
 
-## 🎓 Education
+![Education](https://img.shields.io/badge/-EDUCATION-1a1a2e?style=for-the-badge&logo=googlescholar&logoColor=a78bfa)
 
 **B.Sc. Software Engineering** · University of Agriculture Faisalabad (UAF)
 `09/2020 – 06/2024`
@@ -114,7 +115,7 @@ Coursework: Deep Learning · Machine Learning · Data Analysis · Python
 
 ---
 
-## 🚀 Products @ Panabotics
+![Products](https://img.shields.io/badge/-PRODUCTS_@_PANABOTICS-1a1a2e?style=for-the-badge&logo=vercel&logoColor=a78bfa)
 
 > Ongoing products I'm building and running as Founder & CEO of Panabotics.
 
@@ -141,7 +142,7 @@ Coursework: Deep Learning · Machine Learning · Data Analysis · Python
 
 ---
 
-## 💡 Featured Projects
+![Featured Projects](https://img.shields.io/badge/-FEATURED_PROJECTS-1a1a2e?style=for-the-badge&logo=github&logoColor=a78bfa)
 
 ### AI Sales Intelligence System
 > ReAct (Reasoning + Action) Framework · Text-to-SQL Agent · LangChain · LangGraph · ETL · Polars · Pandas · FastAPI · Next.js · PostgreSQL
@@ -222,7 +223,7 @@ Coursework: Deep Learning · Machine Learning · Data Analysis · Python
 
 ---
 
-## 💼 Experience
+![Experience](https://img.shields.io/badge/-EXPERIENCE-1a1a2e?style=for-the-badge&logoColor=a78bfa)
 
 ### Founder & CEO — [Panabotics](https://panabotics.com)
 `Present`
@@ -242,7 +243,7 @@ AI development and software agency serving local businesses, startups, and growi
 
 ---
 
-## 📊 GitHub Stats
+![GitHub Stats](https://img.shields.io/badge/-GITHUB_STATS-1a1a2e?style=for-the-badge&logo=github&logoColor=a78bfa)
 
 <div align="center">
 
@@ -255,7 +256,7 @@ AI development and software agency serving local businesses, startups, and growi
 
 ---
 
-## 🤝 Let's Connect
+![Lets Connect](https://img.shields.io/badge/-LET'S_CONNECT-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a78bfa)
 
 > Open to collaborations on **Agentic AI systems**, **LLM applications**, and **production ML pipelines**. If you're building something interesting, I'd love to hear about it.
 
