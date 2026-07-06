@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Farhan%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%2C%20Panabotics%20%7C%20Agentic%20AI%20%7C%20Gen%20AI%20%7C%20Voice%20AI%20%7C%20Computer%20Vision%20%7C%20DL%2FML%20%7C%20Python&descAlignY=60&descColor=a78bfa" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                            ║
+║                       FARHAN ALI                          ║
+║                                                            ║
+║      Founder & CEO, Panabotics  |  Agentic AI Engineer     ║
+║      Agentic AI · RAG · LLM Orchestration · Gen AI         ║
+║      Voice AI · Computer Vision · DL/ML · Python           ║
+║                                                            ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+Production-Grade+AI+Systems;Agentic+AI+%7C+RAG+%7C+LLM+Orchestration;Speech+AI+%7C+Computer+Vision+%7C+MLOps)](https://git.io/typing-svg)
+</div>
 
 <br/>
 
@@ -12,6 +20,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-DataXplorerFY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DataXplorerFY)
 [![Email](https://img.shields.io/badge/Email-farhanyounas5204%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanyounas5204@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92--326--7896571-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923267896571)
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=DataXplorerFY&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
 
@@ -267,5 +277,11 @@ AI development and software agency serving local businesses, startups, and growi
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+```
+──────────────────────────────────────────
+   Thanks for stopping by — let's build.
+──────────────────────────────────────────
+```
+
 </div>
