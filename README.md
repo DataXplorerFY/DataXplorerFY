@@ -12,6 +12,8 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
+**I build AI that ships — not AI that stays in a notebook.** 🚀
+
 </div>
 
 <br/>
@@ -21,38 +23,32 @@
 [![Email](https://img.shields.io/badge/Email-farhanyounas5204%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanyounas5204@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92--326--7896571-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923267896571)
 
-</div>
-
 <img src="https://komarev.com/ghpvc/?username=DataXplorerFY&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-- **Role:** Founder & CEO, Panabotics · Agentic AI Engineer
-- **Location:** Lahore, Pakistan
-- **Focus:** Agentic AI · LLM Systems · Speech AI · Computer Vision
-- **Currently:**
-  - Building & scaling AI products @ Panabotics
-  - Agentic AI Engineer @ MayfairTech
-  - CTO @ TechConsortiumInc
-- **Learning:** Multi-Agent Architectures · Advanced RAG · LLM Fine-Tuning
-- **Motto:** *"AI doesn't replace humans — it amplifies what we can do."*
+I'm a founder and engineer who's happiest when an idea goes from whiteboard to something real users actually touch. Right now that means running **Panabotics**, my own AI agency, while also building agentic systems for a UK-based food manufacturer and steering tech strategy at a startup on the side. I like being in the weeds — writing the code, shipping the product, and watching real people use it.
 
-- Founder & CEO of **Panabotics**, an AI development and software agency serving local businesses, startups, and growing companies across the USA, UK, and Australia
-- Agentic AI Engineer at **MayfairTech**, building multi-agent executive intelligence platforms and RAG-driven analytics systems
-- CTO at **TechConsortiumInc**, guiding technical strategy and architecture
-- Hands-on with **Speech AI**, ASR, TTS, Voice Enhancement, Multilingual Models
-- Deep focus on **Agentic AI**, Autonomous Agents, RAG Pipelines, LLM Orchestration
-- Hands-on with **Computer Vision**, Object Detection, Face Recognition, Medical Imaging
-- Deploying AI on **AWS** with CI/CD, Docker, and MLflow for full MLOps cycles
-- BS in Software Engineering, University of Agriculture Faisalabad (UAF) — 2024
+🔭 **Currently:**
+- Building & scaling AI products at **Panabotics** — my own agency
+- Shipping agentic AI systems as **Agentic AI Engineer @ MayfairTech**
+- Steering technical strategy as **CTO @ TechConsortiumInc**
+
+🧠 **Deep in:** Agentic AI · RAG pipelines · LLM orchestration · Speech AI · Computer Vision
+
+🌱 **Leveling up in:** Multi-agent architectures · Advanced RAG · LLM fine-tuning
+
+📍 **Based in:** Lahore, Pakistan
+
+💬 **Motto:** *"AI doesn't replace humans — it amplifies what we can do."*
 
 ---
 
-## Agentic AI & Advanced AI Systems
+## ⚡ Agentic AI & Advanced AI Systems
 
 > *The frontier I'm actively building on.*
 
@@ -69,7 +65,7 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -106,7 +102,7 @@
 
 ---
 
-## Education
+## 🎓 Education
 
 **B.Sc. Software Engineering** · University of Agriculture Faisalabad (UAF)
 `09/2020 – 06/2024`
@@ -118,7 +114,7 @@ Coursework: Deep Learning · Machine Learning · Data Analysis · Python
 
 ---
 
-## Products @ Panabotics
+## 🚀 Products @ Panabotics
 
 > Ongoing products I'm building and running as Founder & CEO of Panabotics.
 
@@ -145,7 +141,7 @@ Coursework: Deep Learning · Machine Learning · Data Analysis · Python
 
 ---
 
-## Featured Projects
+## 💡 Featured Projects
 
 ### AI Sales Intelligence System
 > ReAct (Reasoning + Action) Framework · Text-to-SQL Agent · LangChain · LangGraph · ETL · Polars · Pandas · FastAPI · Next.js · PostgreSQL
@@ -226,7 +222,7 @@ Coursework: Deep Learning · Machine Learning · Data Analysis · Python
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Founder & CEO — [Panabotics](https://panabotics.com)
 `Present`
@@ -244,8 +240,9 @@ AI development and software agency serving local businesses, startups, and growi
 `Present`
 - Set technical direction and architecture for the company's product line
 
+---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -258,9 +255,9 @@ AI development and software agency serving local businesses, startups, and growi
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-> Open to collaborations on **Agentic AI systems**, **LLM applications**, and **production ML pipelines**.
+> Open to collaborations on **Agentic AI systems**, **LLM applications**, and **production ML pipelines**. If you're building something interesting, I'd love to hear about it.
 
 <div align="center">
 
