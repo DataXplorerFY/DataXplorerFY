@@ -31,19 +31,15 @@
 
 ## About Me
 
-```python
-class FarhanAli:
-    role      = "Founder & CEO, Panabotics | Agentic AI Engineer"
-    location  = "Lahore, Pakistan"
-    focus     = ["Agentic AI", "LLM Systems", "Speech AI", "Computer Vision"]
-    currently = [
-        "Building & scaling AI products @ Panabotics",
-        "Agentic AI Engineer @ MayfairTech",
-        "CTO @ TechConsortiumInc"
-    ]
-    learning  = "Multi-Agent Architectures · Advanced RAG · LLM Fine-Tuning"
-    motto     = "AI doesn't replace humans — it amplifies what we can do."
-```
+- **Role:** Founder & CEO, Panabotics · Agentic AI Engineer
+- **Location:** Lahore, Pakistan
+- **Focus:** Agentic AI · LLM Systems · Speech AI · Computer Vision
+- **Currently:**
+  - Building & scaling AI products @ Panabotics
+  - Agentic AI Engineer @ MayfairTech
+  - CTO @ TechConsortiumInc
+- **Learning:** Multi-Agent Architectures · Advanced RAG · LLM Fine-Tuning
+- **Motto:** *"AI doesn't replace humans — it amplifies what we can do."*
 
 - Founder & CEO of **Panabotics**, an AI development and software agency serving local businesses, startups, and growing companies across the USA, UK, and Australia
 - Agentic AI Engineer at **MayfairTech**, building multi-agent executive intelligence platforms and RAG-driven analytics systems
