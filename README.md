@@ -12,7 +12,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-**I build AI that ships — not AI that stays in a notebook.**
+**Building Minds For Machines**
 
 </div>
 
